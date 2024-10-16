@@ -1,6 +1,6 @@
 # 👋 Welcome to WorldMedQA! 🌍
 
-<img src="logo.png" alt="worldmedqa_logo" width="200"/>
+<img src="profile/logo.png" alt="worldmedqa_logo" width="200"/>
 
 The WorldMedQA team is on a mission to elevate medical AI by refining the benchmarks used to evaluate vision and language models for healthcare.
 
